@@ -1,5 +1,7 @@
 01:29:
 
-new repo ...
+☑ new repo ...
+☑ new key-password
+
 
 
