@@ -1,0 +1,102 @@
+"Zeit","Absender","Nachrichtentyp","Text","Empfänger","Intern","Schweregrad der Ablehnung","Ablehnungsgrund"
+"2026-03-25T14:48:46+0000","Chatbot","TEXT","Guten Tag Marc Landolt. Ich bin der Chatbot 🤖 der Schweizerischen Post.","","false","",""
+"2026-03-25T14:48:47+0000","Chatbot","TEXT","Wie darf ich Sie unterstützen?","","false","",""
+"2026-03-25T14:48:49+0000","Chatbot","TEXT","**Ein kleiner Tipp**: Vollständige, einfache Sätze verstehe ich am besten.","","false","",""
+"2026-03-25T14:50:07+0000","Marc Landolt","TEXT","Ich hab explizit beim Lieferanten eine Lieferung in PickPost24 Kasten bestellt, das hat er auch so eingetragen aber die Post 5004 in der Telli hat das dann einfach herausgenommen und zwingt mich an den schalter zu gehen und mich mehr paranoid zu machen. Als Autist habe ich probleme mit Reizüberflutung und die wissen das und machen das absichtllich aus hohn oder für schmiergelder","","false","",""
+"2026-03-25T14:50:08+0000","Chatbot","TEXT","Bedauerlicherweise konnte ich auf Ihre Frage keine passende Antwort finden.","","false","",""
+"2026-03-25T14:50:10+0000","Chatbot","CARD","Sie können Ihre Frage gerne nochmals umformulieren oder ich kann Ihnen folgendes anbieten:","","false","",""
+"2026-03-25T14:50:14+0000","Marc Landolt","REPLY","Live-Chat 💬","","false","",""
+"2026-03-25T14:50:16+0000","Chatbot","TEXT","Möchten Sie mit einem Mitarbeitenden des Contact Centers einen Live-Chat starten?","","false","",""
+"2026-03-25T14:50:21+0000","Marc Landolt","TEXT","Ja ✔","","false","",""
+"2026-03-25T14:50:23+0000","Chatbot","TEXT","Betrifft Ihr Anliegen eine internationale Sendung? ","","false","",""
+"2026-03-25T14:50:39+0000","Marc Landolt","TEXT","Nein ❌","","false","",""
+"2026-03-25T14:50:41+0000","Chatbot","TEXT","Sind Sie Privat- oder Geschäftskunde?","","false","",""
+"2026-03-25T14:50:44+0000","Marc Landolt","TEXT","Privatkunde","","false","",""
+"2026-03-25T14:50:49+0000","Chatbot","TEXT","Willkommen beim Live-Chat der Schweizerischen Post.","","false","",""
+"2026-03-25T14:50:51+0000","Chatbot","TEXT","Ein Teammitglied wird demnächst dem Chat beitreten. 
+Damit wir Ihnen schnell eine Lösung bieten können, bitten wir Sie um Unterstützung. Bitte teilen Sie uns folgendes mit:
++ Sendungsnummer oder Auftragsnummer
++ Anschrift ","","false","",""
+"2026-03-25T14:50:52+0000","System","SYSTEM","Sie sind der Unterhaltung beigetreten.","","false","",""
+"2026-03-25T14:51:12+0000","Marc Landolt","TEXT","99.60.035161.00118778","","false","",""
+"2026-03-25T14:51:31+0000","Marc Landolt","TEXT","Neuenburgerstrasse 6","","false","",""
+"2026-03-25T14:52:16+0000","Marc Landolt","FILE","hat folgende Datei hochgeladen: Screenshot From 2026-03-25 15-47-19.png (223.0 kB).","","false","",""
+"2026-03-25T14:52:53+0000","Chatbot","TEXT","Bitte haben Sie einen Moment Geduld. Ein Teammitglied wird dem Chat schnellstmöglich beitreten.","zUik4_SMTBG_oDX04oeDgw","false","",""
+"2026-03-25T14:56:38+0000","Marc Landolt","TEXT","hallo?","","false","",""
+"2026-03-25T14:56:53+0000","Chatbot","TEXT","Momentan verzeichnen wir viele Kundenanfragen. Bitte geben Sie uns noch einen Moment Zeit.","zUik4_SMTBG_oDX04oeDgw","false","",""
+"2026-03-25T14:57:12+0000","Marc Landolt","TEXT","wie lange ist die warte-schlange?","","false","",""
+"2026-03-25T14:57:29+0000","System","SYSTEM","Susana Rey trat dem Chat bei.","","false","",""
+"2026-03-25T14:57:40+0000","Susana Rey","TEXT","Guten Tag Marc Landolt. Sie chatten mit Susana Rey. Gerne sehe ich mir Ihre Anfrage im Detail für Sie an. Danke für Ihre Geduld.","","false","",""
+"2026-03-25T14:58:14+0000","Marc Landolt","TEXT","eben ich habe das schon oben geschrieben, sehen sie was ich vorher geschrieben habe","","false","",""
+"2026-03-25T14:59:18+0000","Susana Rey","TEXT","Habe ich Sie richtig verstanden, Sie haben sich ein Paket an den My Post 24 Automat senden lassen, jedoch wurde die Sendung bei der Poststelle Aarau Telli abgegeben?","","false","",""
+"2026-03-25T15:00:20+0000","Marc Landolt","TEXT","eben auch der QR-Code fehlt, und wenn ich das an einen andern post24 weiterleiten möchte kann ich da die ok taste nicht drücken","","false","",""
+"2026-03-25T15:00:46+0000","Susana Rey","TEXT","Gerne werde ich es für Sie überprüfen. Einen Moment bitte.","","false","",""
+"2026-03-25T15:00:48+0000","Marc Landolt","TEXT","bild","","false","",""
+"2026-03-25T15:00:48+0000","Marc Landolt","FILE","hat folgende Datei hochgeladen: Screenshot From 2026-03-25 16-00-31.png (184.0 kB).","","false","",""
+"2026-03-25T15:03:12+0000","Susana Rey","TEXT","Vielen Dank für Ihre Geduld. Leider wurde das Paket nicht korrekt adressiert und deshalb zur Abholung in der Postfiliale Aarau Telli hinterlegt. Besteht für Sie die Möglichkeit, die Sendung dort am Schalter abzuholen?","","false","",""
+"2026-03-25T15:05:07+0000","Marc Landolt","TEXT","FEDPOL24 suggeriert PickPost24
+
+Das würde dann einfach wieder als falsche Terrorismus-Bezichtigung missbraucht
+
+Ich bin wichtiger Zeuge für 3fach Mord welche der Herr Urs Blum an den Herrn Philipp Lüscher in Auftrag gegeben hat, aber urs blum und die Zürich Verischrung sein arbeitgeber hat gorsse Teile der Justiz bereits kompormitiert oder gekauft
+
+Also gerne dass ich das holen kann wenn nicht ein grösserres Täternetzwerk mir an Post-Schlater der Teill Aarau auflauert","","false","",""
+"2026-03-25T15:05:51+0000","Susana Rey","FILE","hat folgende Datei hochgeladen: Adressierung MP24.jpg (103.0 kB).","","false","",""
+"2026-03-25T15:06:38+0000","Susana Rey","TEXT","Damit Ihre Sendungen künftig im My Post 24 Automat eingelagert werden können, muss die Adressierung wie auf dem Bild beschrieben angegeben werden.","","false","",""
+"2026-03-25T15:07:57+0000","Marc Landolt","TEXT","im normalfall würden die dann eine Einwiesung in die Psychitrie produzieren und mich dort mit intelligenzmindernden Psychopharmaka ""nur virutell"" Köpfen. Das ist zwar eine Verbesserung im Knotext zB von Sophie Scholl welche von den Nazis in DE ermordet wurde aber wäre einfacher für mich wenn das an den pickpost24 Schlater gehen würde.
+
+Ausserdem ist der PickPost24 vermutlich gar nicht voll sondern da missbraucht irgendjemand seine Access Codes zB der Palantir Lizenz von der Swiss RE um die Massenmorde auch an Verdingkindern und nicht nur an Zeugen wie mir zu vertuschen","","false","",""
+"2026-03-25T15:08:23+0000","Marc Landolt","TEXT","also da auch gerne sagen weshalb FALLS das in der Telli voll ist ich das nicht in einen andernen PickPost24 weiterleiten kann","","false","",""
+"2026-03-25T15:09:19+0000","Marc Landolt","TEXT","und ich habe informatik Studiert, war klassenbester im letzten Semester als Informatiker HF, also mit genug vorwissen weiss man wie solche Drecksspiele laufen","","false","",""
+"2026-03-25T15:10:58+0000","Marc Landolt","TEXT","im normalfall ist das glaub dass parallel eine anti-terror-einheit aktiviert wird, aber die wurden viele von wirtschaftskriminellen aufgekauft und werden jetzt für Morde an Zeugen, Vergewaltigungsopfern oder Autisten missbraucht","","false","",""
+"2026-03-25T15:11:21+0000","Marc Landolt","TEXT","also da wäre wirklcih spannend zu erfahren wer zu meinen ungungsten an den postsystememen herummanipuliert","","false","",""
+"2026-03-25T15:11:41+0000","Susana Rey","TEXT","Ich verstehe Ihren Ärger und bedauere, dass online keine Weiterleitung möglich ist. Leider können wir die Sendung auch nicht an eine andere Abholstelle umleiten. Sollten Sie keine Möglichkeit haben, das Paket am Schalter abzuholen, können Sie die Abholfrist ablaufen lassen. In diesem Fall wird die Sendung an den Absender retourniert, der anschliessend einen erneuten Versand mit der korrekten Adresse veranlassen kann.","","false","",""
+"2026-03-25T15:11:53+0000","Marc Landolt","TEXT","ausserdem denke ich dass die PostAUTO affäere entweder einfach dazu missbraucht wird OPPORTUN von diesen Dingen abzulenken ODER sogar vorsätzlich produziertz wurde","","false","",""
+"2026-03-25T15:13:01+0000","Marc Landolt","TEXT","retourineren und erneut schicken lassen, das ist der blanke hohn, also sie gehören auch zu denen welche eine legitime einweisung produzeiren sollen ?","","false","",""
+"2026-03-25T15:14:12+0000","Marc Landolt","TEXT","Werden bei der Post alles Drogensüchtige wie der Markus Belser bereits vor 1999 eingestellt, und nach der post wurde dem einfach ein Posten als Polizist geschenkt oder zugehalten von den Wirtscahftskriminellen ?","","false","",""
+"2026-03-25T15:14:31+0000","Susana Rey","TEXT","Ich bedauere, dass ich Ihnen keine positivere Auskunft geben kann. Aufgrund der fehlerhaften Adressierung kann ich Ihnen leider keine alternative Lösung anbieten.","","false","",""
+"2026-03-25T15:14:51+0000","Marc Landolt","TEXT","ich muss noch sagen für spätere gerichtliche auswertung dass ich diesen chat jetzt speichern werde","","false","",""
+"2026-03-25T15:15:27+0000","Susana Rey","TEXT","Wenn wir den Chat beenden, werden Sie automatisch gefragt ob Sie den Verlauf per E-Mail erhalten möchten.
+Klicken Sie auf ja und Sie erhalten den auf die erfasste E-Mail Adresse.","","false","",""
+"2026-03-25T15:16:10+0000","Marc Landolt","TEXT","gerne per email und gerne sagen weshalb ich das nicht umleiten kann und weshlab die weiter taste grau ist
+
+und wer das postsystem dazu missbraucht zeugen zu vernichten ?","","false","",""
+"2026-03-25T15:17:34+0000","Marc Landolt","TEXT","dann für das protokoll, da hat es algorithmen welche über maus haptik und sonst versuchen den copy paste des dialogs zu verhindern
+
+=> das kann schlussendlich mit hoher Wahrschienlichkeit mit einem entwickler der Post webseite in verbindung gebracht werden","","false","",""
+"2026-03-25T15:18:03+0000","Susana Rey","TEXT","Erfahrungsgemäss können Sie die Sendung nicht weiterleiten, da sie nicht korerkt adressiert wurde.","","false","",""
+"2026-03-25T15:18:14+0000","Susana Rey","TEXT","Haben Sie weitere Fragen oder Anliegen?","","false","",""
+"2026-03-25T15:18:22+0000","Marc Landolt","TEXT","im screenshot sthet dass das zuerst an die pickpost eingetragen war","","false","",""
+"2026-03-25T15:18:50+0000","Marc Landolt","TEXT","also sie veruchen jetzt die junge mitarbieterin beim absender für diesen mist als sündenbock zu missbrauchen?","","false","",""
+"2026-03-25T15:19:23+0000","Marc Landolt","TEXT","der screenshot belegt dass der absender nichts falsch gemacht hat, es gilt somit für sie der verdacht auf vorsastz","","false","",""
+"2026-03-25T15:19:47+0000","Susana Rey","TEXT","Das Paket wurde wie folgt adressiert: Marc jr. LandoltPickPost24 Telli AarauNeuenburgerstrasse 65004 Aarau","","false","",""
+"2026-03-25T15:20:29+0000","Susana Rey","TEXT","Die korrekte Anschrift müsste lauten: Marc jr. LandoltMy Post 24 + Ihre User IDMP Telli5004 Aarau","","false","",""
+"2026-03-25T15:20:30+0000","Marc Landolt","TEXT","ja das ist meine adresse, und wenn der absender das so einträgt wird er wissen dass das kein betrug sit","","false","",""
+"2026-03-25T15:20:47+0000","Marc Landolt","TEXT","MP = Militär Polizei ?","","false","",""
+"2026-03-25T15:20:55+0000","Marc Landolt","TEXT","ist das eine morddrohung gegen mich?","","false","",""
+"2026-03-25T15:21:27+0000","Susana Rey","TEXT","Nein ""MP"" steht für My Post 24.","","false","",""
+"2026-03-25T15:21:30+0000","Marc Landolt","TEXT","also die militärs sind ja diejenige welche seit 1950 Verdingkidner versklaven, vergewaltigen und dann ermorden ?","","false","",""
+"2026-03-25T15:22:04+0000","Marc Landolt","TEXT","also sie hätten einen offizierstitel oder einen offizier als vorgestezten und befolgen nur befehle wie der Eichmann im Eichmann Prozess?","","false","",""
+"2026-03-25T15:22:18+0000","Marc Landolt","TEXT","vorsätzliche ambiguität","","false","",""
+"2026-03-25T15:23:27+0000","Marc Landolt","TEXT","kann wieder mit dem software / System Entwickler der post systeme in verbindung gebracht werdne VERMUTE ich jetzt mal
+
+Somit auch sinnvollerweise Rasterfahndung wieviele illegale verhaftungen es an Poststellen gibt und wieveile von den verhafteten Zeugen für Morde der Armee oder von wirtschaftskrimnellen sind","","false","",""
+"2026-03-25T15:24:11+0000","Marc Landolt","TEXT","oder das system lässt sie das nicht ändern, aber ""senden sie es erneut"" ist eher ein indiz für hohn","","false","",""
+"2026-03-25T15:25:42+0000","Marc Landolt","TEXT","@INTERPOL, also da gibt es pläne wenn diese Art von Hybrider Kriegsführung gegen Zivilisten oder Asylanten oder Ausländer oder Verdingkinder auffliegt, Vermutlich wurden jetzt mächtiger Offiziere aufgeboten.
+
+Wirst case hinter dem Rücken der Mitarbeiterin am Frontdesk / First Level Support wie zB bei ISP's Schweiz auch oft","","false","",""
+"2026-03-25T15:25:54+0000","Marc Landolt","TEXT","Hallo?","","false","",""
+"2026-03-25T15:27:42+0000","Susana Rey","TEXT","Herr Landolt, wie gesagt wir verstehen Ihren Unmut und Sie können sicher sein, ich haben Ihr Anliegen verstanden.  Sie haben bereits mehrmals die korrekte Antwort von mir erhalten. Bedauerlicherweise gibt es keine weiteren Informationen zu diesem Thema. Darum werde ich diesen Chat nun beenden. Selbstverständlich stehen wir Ihnen bei Fragen zu anderen Themen gerne wieder zur Verfügung. Ich wünsche Ihnen einen angenehmen Nachmittag.","","false","",""
+"2026-03-25T15:27:44+0000","Marc Landolt","TEXT","also Front-Desk / First Level Support Mitarbeiter/in und eine Halbe Armee von ""ungesehenen"" auftragskillern parallel im Post system, und dann wird soch auch versucht meinen Computer / Handy zu hacken","","false","",""
+"2026-03-25T15:28:05+0000","Marc Landolt","TEXT","genne caht protokoll schicken","","false","",""
+"2026-03-25T15:28:22+0000","Susana Rey","TEXT","Wenn wir den Chat beenden, werden Sie automatisch gefragt ob Sie den Verlauf per E-Mail erhalten möchten.
+Klicken Sie auf ja und Sie erhalten den auf die erfasste E-Mail Adresse.","","false","",""
+"2026-03-25T15:28:29+0000","Marc Landolt","TEXT","also gerne an meine eingetragnee email adresse","","false","",""
+"2026-03-25T15:28:40+0000","Marc Landolt","TEXT","wann wird das email verschickt?","","false","",""
+"2026-03-25T15:28:52+0000","Marc Landolt","TEXT","wo muss ich auf Ja klicken ?","","false","",""
+"2026-03-25T15:29:08+0000","Marc Landolt","TEXT","und das ist vom softare design auch mässig toll","","false","",""
+"2026-03-25T15:29:28+0000","Susana Rey","TEXT","Sobald wir den Chat beenden, werden Sie automatisch gefragt, ob Sie den Verlauf per E-Mail erhalten möchten.","","false","",""
+"2026-03-25T15:29:49+0000","Susana Rey","TEXT","Ich wünsche Ihnen einen schönen Nachmittag.","","false","",""
+"2026-03-25T15:29:51+0000","Marc Landolt","TEXT","also gerne sonst von ihrer seite aus das auch ncoh schicken
+
+das sind dark software patterns um dann ""blaming the user"" karte zu spielen ""Marc jr jat die chat per mail senden selber nicht gedrückt""","","false","",""
