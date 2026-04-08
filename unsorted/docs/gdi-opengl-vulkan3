@@ -1,0 +1,33 @@
+          │
+│  ├─           │
+│  ├─           │
+│  │                          │
+│  ├─   ◄────────┐
+│  │                          │
+│  ▼                          │
+│               │
+│              │
+│  │                          │
+│  ▼                          │
+│                       │
+│  │                          │
+│  ▼                          │
+│ GPU                         │
+│  │                          │
+│  ├─   (Renderziel)
+│  └─  (Anzeige)
+
+
+
+glBindBuffer()
+glUseProgram()
+glDrawArrays()
+SwapBuffers()
+OpenGL Context
+(State Machine)
+
+
+Driver
+
+Back Buffer
+Front Buffer

@@ -1,0 +1,26 @@
+┌─────────────────────────────┐
+│          OpenGL             │
+├─────────────────────────────┤
+│ App                         │
+│  │                          │
+│  ├─ glBindBuffer()          │
+│  ├─ glUseProgram()          │
+│  ├─ glDrawArrays()          │
+│  │                          │
+│  ├─ SwapBuffers()  ◄────────┐
+│  │                          │
+│  ▼                          │
+│ OpenGL Context              │
+│ (State Machine)             │
+│  │                          │
+│  ▼                          │
+│ Driver                      │
+│  │                          │
+│  ▼                          │
+│ GPU                         │
+│  │                          │
+│  ├─ Back Buffer  (Renderziel)
+│  └─ Front Buffer (Anzeige)
+│         ▲                   │
+│         └───────────────────┘
+└─────────────────────────────┘

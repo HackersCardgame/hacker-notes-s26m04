@@ -1,0 +1,24 @@
+
+┌─────────────────────────────┐
+│            GDI              │
+├─────────────────────────────┤
+│ App                         │
+│  │                          │
+│  ├─ drawLine()              │
+│  ├─ drawText()              │
+│  └─ BitBlt()                │
+│  │                          │
+│  ▼                          │
+│ Device Context              │
+│ (ein globaler Zustand)      │
+│  │                          │
+│  ▼                          │
+│ CPU / OS Rendering          │
+│ (kaum GPU-Modell)           │
+└─────────────────────────────┘
+
+
+GDI:
+  drawLine()
+
+
