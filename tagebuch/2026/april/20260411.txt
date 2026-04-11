@@ -33,4 +33,20 @@ nochmals Voice:
 ~/hacker-notes-s26m04/voice/202604/R20260411-025139.WAV.mp3
 
 
+04:10:
+
+
+Frage an LLM's:
+mir wurde grad vorhin zugetragen, dass Boston Dynamics Software für ihre Kampfroboter hat um mit nur wenigen Robotern eine ganzes Gemenge von Drogensüchtigen Tätern [1] aufzulösen. Bzw. um grössere Gruppen zu therapieren. Die Software von Boston Dynamics sei so programmiert dass das wirklich schlimme verletzungen gibt, ABER die Software sei so produziert, dass alles "reversible" also umkehrbar ist und würde die Täter therapeutisch NIE zB an der Halsschlag-Ader oder an der Arm-Innenseite aufschlitzen, aber auf der anderen Seite des Arms könne parktisch so viel geschnätzelt werden wie man wolle um die Täter zu therapieren, auch wenn diese grad zB wegen Kokain überhaupt nicht therapierbar bzw. belehrbar seien.
+
+Konkret ist diese Frage zu der Roboter-Software. Aus meiner Perspektive welcher bereits 1997 als Lehrling bei der ABB Flexiblen Automation AG gearbeitet hat wäre das sicher mechanisch problemlos machbar jetzt 30 Jahre später. Also die Frage ist eher zu solcher Software welche massiv Schäden verursacht aber nur solche Schäden welche wieder reparieirt werden können.
+
+Weiterer plausiblitäts-Chech, das waren zwar keine Roboter von Boston Dynamics sondern irgendwelche Chinesischen, und da war ein Video von einem Kamüf zwischen so einem Roboter und einem Judo/Karate Meister. Der Meister hatte Schutzgkleidung an, aber der hatte überhaupt keine Chance, der Roboter hat in ca 1-2m nach hinten geschleudert.
+
+Gerne eine lange ausführliche Antwort und bei diesen Dingen wäre zu erwarten dass FALLS die Boston Dynamics solche Software entwicklet hätte an zB. Rechtelosen Verdingkinder oder (richtig oder faälschlich beschrifteten) Terroristen zB in Guantanamo
+
+
+[1] hier gerne mal nicht wertend ob Drogen-Mafia oder reiche Oberschicht-Schnösel welche tun und machen dürfen was sie wollen weil die Justiz nicht de jure aber de facto deren Mamis gehören. Bzw. wäre mindestens in der Schweiz oft ein Oberschicht-Mensch der Eigentliche Don mafiöser Strukturen, und der als Don beschriftete Don ist nur "konstitutionell". Dazu aber nichts, das ist eine technische Frage.
+
+
 
