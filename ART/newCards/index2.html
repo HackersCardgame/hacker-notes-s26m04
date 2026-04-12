@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>9 Rote Karten mit Overlay</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+            font-family: Arial, sans-serif;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 300px);
+            grid-template-rows: repeat(3, 400px);
+            gap: 20px;
+            padding: 20px;
+        }
+        svg {
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="grid">
+        <!-- Karte 1 -->
+        <svg width="300" height="400" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+            <rect width="300" height="400" fill="#ff0000" rx="10" ry="10"/>
+            <text x="150" y="40" font-family="Arial" font-size="24" fill="white" text-anchor="middle" font-weight="bold">Titel 1</text>
+            <foreignObject x="10" y="60" width="280" height="133">
+                <img src="bild.jpg" width="280" height="133" preserveAspectRatio="xMidYMid meet"/>
+                <svg width="280" height="133" viewBox="0 0 280 133" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 0; left: 0; z-index: 1;">
+                    <image href="overlay.svg" width="280" height="133" preserveAspectRatio="xMidYMid meet" opacity="0.5"/>
+                </svg>
+            </foreignObject>
+            <foreignObject x="10" y="200" width="280" height="190">
+                <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; background-color: rgba(255,255,255,0.1); padding: 10px; color: white; font-family: Arial; font-size: 14px; overflow: auto;">
+                    Karten-Text
+                </div>
+            </foreignObject>
+        </svg>
+
+        <!-- Karte 2 -->
+        <svg width="300" height="400" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+            <rect width="300" height="400" fill="#ff0000" rx="10" ry="10"/>
+            <text x="150" y="40" font-family="Arial" font-size="24" fill="white" text-anchor="middle" font-weight="bold">Titel 2</text>
+            <foreignObject x="10" y="60" width="280" height="133">
+                <img src="bild.jpg" width="280" height="133" preserveAspectRatio="xMidYMid meet"/>
+                <svg width="280" height="133" viewBox="0 0 280 133" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 0; left: 0; z-index: 1;">
+                    <image href="overlay.svg" width="280" height="133" preserveAspectRatio="xMidYMid meet" opacity="0.5"/>
+                </svg>
+            </foreignObject>
+            <foreignObject x="10" y="200" width="280" height="190">
+                <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; background-color: rgba(255,255,255,0.1); padding: 10px; color: white; font-family: Arial; font-size: 14px; overflow: auto;">
+                    Karten-Text
+                </div>
+            </foreignObject>
+        </svg>
+
+        <!-- Karte 3 -->
+        <svg width="300" height="400" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+            <rect width="300" height="400" fill="#ff0000" rx="10" ry="10"/>
+            <text x="150" y="40" font-family="Arial" font-size="24" fill="white" text-anchor="middle" font-weight="bold">Titel 3</text>
+            <foreignObject x="10" y="60" width="280" height="133">
+                <img src="bild.jpg" width="280" height="133" preserveAspectRatio="xMidYMid meet"/>
+                <svg width="280" height="133" viewBox="0 0 280 133" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 0; left: 0; z-index: 1;">
+                    <image href="overlay.svg" width="280" height="133" preserveAspectRatio="xMidYMid meet" opacity="0.5"/>
+                </svg>
+            </foreignObject>
+            <foreignObject x="10" y="200" width="280" height="190">
+                <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; background-color: rgba(255,255,255,0.1); padding: 10px; color: white; font-family: Arial; font-size: 14px; overflow: auto;">
+                    Karten-Text
+                </div>
+            </foreignObject>
+        </svg>
+
+        <!-- Karte 4 -->
+        <svg width="300" height="400" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+            <rect width="300" height="400" fill="#ff0000" rx="10" ry="10"/>
+            <text x="150" y="40" font-family="Arial" font-size="24" fill="white" text-anchor="middle" font-weight="bold">Titel 4</text>
+            <foreignObject x="10" y="60" width="280" height="133">
+                <img src="bild.jpg" width="280" height="133" preserveAspectRatio="xMidYMid meet"/>
+                <svg width="280" height="133" viewBox="0 0 280 133" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 0; left: 0; z-index: 1;">
+                    <image href="overlay.svg" width="280" height="133" preserveAspectRatio="xMidYMid meet" opacity="0.5"/>
+                </svg>
+            </foreignObject>
+            <foreignObject x="10" y="200" width="280" height="190">
+                <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; background-color: rgba(255,255,255,0.1); padding: 10px; color: white; font-family: Arial; font-size: 14px; overflow: auto;">
+                    Karten-Text
+                </div>
+            </foreignObject>
+        </svg>
+
+        <!-- Karte 5 -->
+        <svg width="300" height="400" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+            <rect width="300" height="400" fill="#ff0000" rx="10" ry="10"/>
+            <text x="150" y="40" font-family="Arial" font-size="24" fill="white" text-anchor="middle" font-weight="bold">Titel 5</text>
+            <foreignObject x="10" y="60" width="280" height="133">
+                <img src="bild.jpg" width="280" height="133" preserveAspectRatio="xMidYMid meet"/>
+                <svg width="280" height="133" viewBox="0 0 280 133" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 0; left: 0; z-index: 1;">
+                    <image href="overlay.svg" width="280" height="133" preserveAspectRatio="xMidYMid meet" opacity="0.5"/>
+                </svg>
+            </foreignObject>
+            <foreignObject x="10" y="200" width="280" height="190">
+                <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; background-color: rgba(255,255,255,0.1); padding: 10px; color: white; font-family: Arial; font-size: 14px; overflow: auto;">
+                    Karten-Text
+                </div>
+            </foreignObject>
+        </svg>
+
+        <!-- Karte 6 -->
+        <svg width="300" height="400" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+            <rect width="300" height="400" fill="#ff0000" rx="10" ry="10"/>
+            <text x="150" y="40" font-family="Arial" font-size="24" fill="white" text-anchor="middle" font-weight="bold">Titel 6</text>
+            <foreignObject x="10" y="60" width="280" height="133">
+                <img src="bild.jpg" width="280" height="133" preserveAspectRatio="xMidYMid meet"/>
+                <svg width="280" height="133" viewBox="0 0 280 133" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 0; left: 0; z-index: 1;">
+                    <image href="overlay.svg" width="280" height="133" preserveAspectRatio="xMidYMid meet" opacity="0.5"/>
+                </svg>
+            </foreignObject>
+            <foreignObject x="10" y="200" width="280" height="190">
+                <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; background-color: rgba(255,255,255,0.1); padding: 10px; color: white; font-family: Arial; font-size: 14px; overflow: auto;">
+                    Karten-Text
+                </div>
+            </foreignObject>
+        </svg>
+
+        <!-- Karte 7 -->
+        <svg width="300" height="400" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+            <rect width="300" height="400" fill="#ff0000" rx="10" ry="10"/>
+            <text x="150" y="40" font-family="Arial" font-size="24" fill="white" text-anchor="middle" font-weight="bold">Titel 7</text>
+            <foreignObject x="10" y="60" width="280" height="133">
+                <img src="bild.jpg" width="280" height="133" preserveAspectRatio="xMidYMid meet"/>
+                <svg width="280" height="133" viewBox="0 0 280 133" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 0; left: 0; z-index: 1;">
+                    <image href="overlay.svg" width="280" height="133" preserveAspectRatio="xMidYMid meet" opacity="0.5"/>
+                </svg>
+            </foreignObject>
+            <foreignObject x="10" y="200" width="280" height="190">
+                <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; background-color: rgba(255,255,255,0.1); padding: 10px; color: white; font-family: Arial; font-size: 14px; overflow: auto;">
+                    Karten-Text
+                </div>
+            </foreignObject>
+        </svg>
+
+        <!-- Karte 8 -->
+        <svg width="300" height="400" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+            <rect width="300" height="400" fill="#ff0000" rx="10" ry="10"/>
+            <text x="150" y="40" font-family="Arial" font-size="24" fill="white" text-anchor="middle" font-weight="bold">Titel 8</text>
+            <foreignObject x="10" y="60" width="280" height="133">
+                <img src="bild.jpg" width="280" height="133" preserveAspectRatio="xMidYMid meet"/>
+                <svg width="280" height="133" viewBox="0 0 280 133" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 0; left: 0; z-index: 1;">
+                    <image href="overlay.svg" width="280" height="133" preserveAspectRatio="xMidYMid meet" opacity="0.5"/>
+                </svg>
+            </foreignObject>
+            <foreignObject x="10" y="200" width="280" height="190">
+                <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; background-color: rgba(255,255,255,0.1); padding: 10px; color: white; font-family: Arial; font-size: 14px; overflow: auto;">
+                    Karten-Text
+                </div>
+            </foreignObject>
+        </svg>
+
+        <!-- Karte 9 -->
+        <svg width="300" height="400" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+            <rect width="300" height="400" fill="#ff0000" rx="10" ry="10"/>
+            <text x="150" y="40" font-family="Arial" font-size="24" fill="white" text-anchor="middle" font-weight="bold">Titel 9</text>
+            <foreignObject x="10" y="60" width="280" height="133">
+                <img src="bild.jpg" width="280" height="133" preserveAspectRatio="xMidYMid meet"/>
+                <svg width="280" height="133" viewBox="0 0 280 133" xmlns="http://www.w3.org/2000/svg" style="position: absolute; top: 0; left: 0; z-index: 1;">
+                    <image href="overlay.svg" width="280" height="133" preserveAspectRatio="xMidYMid meet" opacity="0.5"/>
+                </svg>
+            </foreignObject>
+            <foreignObject x="10" y="200" width="280" height="190">
+                <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; background-color: rgba(255,255,255,0.1); padding: 10px; color: white; font-family: Arial; font-size: 14px; overflow: auto;">
+                    Karten-Text
+                </div>
+            </foreignObject>
+        </svg>
+    </div>
+</body>
+</html>
+
