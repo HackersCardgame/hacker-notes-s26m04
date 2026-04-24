@@ -59,3 +59,50 @@ voice/202604/R20260423-200605.WAV.mp3
 voice/202604/R20260423-200749.WAV.mp3
 voice/202604/R20260423-200803.WAV.mp3
 
+
+13:27:
+
+unbekannt:
+now consulting <- amoklauf 
+
+(unbekannt spammt wichtigeres)
+
+
+
+was ich eigentlich protokollieren wollte
+
+voice:
+~/hacker-notes-s26m04/
+voice/202604/R20260424-122458.WAV.mp3
+voice/202604/R20260424-122853.WAV.mp3
+voice/202604/R20260424-123009.WAV.mp3
+voice/202604/R20260424-123314.WAV.mp3
+voice/202604/R20260424-123816.WAV.mp3
+voice/202604/R20260424-124426.WAV.mp3
+voice/202604/R20260424-130818.WAV.mp3
+voice/202604/R20260424-131219.WAV.mp3
+
+marc@trix:~/hacker-notes-s26m04/voice/202604$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@trix:~/hacker-notes-s26m04/voice/202604$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@trix:~/hacker-notes-s26m04/voice/202604$ 
+
+
+und insbesondere der hier wäre ein indiz, dass zugriffe auf das Medulla Spinalis neuroimplantat höchste geheimhaltungsstufe hat, und insbesondere dann wäre das TOP SECRET wenn das systematisch missbraucht würde.
+
+voice/202604/R20260424-132506.WAV.mp3
+-> dann wer so etwas auf fliegen lässt hat allenfalls sogar einen NDA auf Todesstrafe
+
+
+
