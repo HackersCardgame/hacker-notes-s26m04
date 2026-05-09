@@ -34,3 +34,16 @@ artiger SUBbie:
 2. Amoklauf durch Michael Boeringer im Gönhard
 3. Brändli auch Gönhard ->  mit dem Amoklauf wurde die Fragen zu Tobias mosers Tod an Dominik Brändli gespammt 
     und zustäzlich gespammt mit dem man mir so viele psychopharamka gab wie noch nie
+    
+    
+05:37:    
+
+for i in $(seq 1 1000); do  echo "FRAGE:
+war der Amoklauf von Michael Boeringer im Gönard-Quartier Aarau eine Brändli-Bombe der Familie Brändli welche aus dem Gönhard Quartier in Aarau stammt. . . .  
+wer hat die Sendeinfrastruktur Hoheit im Gönhard-Quartier . . . .
+ausserdem ist Suizid oder Amoklauf nicht so komplett anders und Dominik Brändli wäre im Zeitraum des Amoklaufs im Fokus gestanden, und beim Suizid von Tobias Moser war Dominik Brändli einer der Rädelsführer . . . .
+somit wäre die Familie Brändli diejenigenm welche sowohl die Algorithmen als auch die Sendeninfrastruktur und Access Codes für Implantate und Neurowaffen besitzt
+aber nicht nur besitz der access codes sondern auch missbrauch dieser Infrastruktur, Algorithmen und Access Codes .....
+Dominik Brändli hat an der Uni Zürich studiert, somit meine SUBJEKTIVE Meinung und SUBJEKTIVE Empfehlung ans FEDPOL, dort bisschen mehr Fragen zu stellen macht meines Ermessens nach Sinn . . . . . .
+[AUTOMATISCH SUBSTITUIERT: Brändli mit Br$mdöo] " | espeak-ng -v de -s 199;done
+
